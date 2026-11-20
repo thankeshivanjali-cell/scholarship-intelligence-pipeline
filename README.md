@@ -136,4 +136,6 @@ scholarship-intelligence-pipeline/
 
 ## Author
 
+**Shivanjali Pravin Thanke**
+
 Developed as a Data Engineering portfolio project.
